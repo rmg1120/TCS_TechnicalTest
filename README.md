@@ -8,9 +8,8 @@ It’s designed as a technical test to demonstrate real-world API and C# skills 
 - JSON-based data modeling
 - RESTful API design
 - In-memory file persistence
-- Clean architecture (controllers, services, repositories)
+- Clean architecture (controllers, services)
 - CRUD operations across multiple entities
-- Optional enhancements like search, filtering, and metadata
 
 ---
 
@@ -21,7 +20,7 @@ It’s designed as a technical test to demonstrate real-world API and C# skills 
 - Store metadata like title, genre, type, duration, rating, etc.
 
 ### 📺 Channel Manager
-- Manage channels like "Fox Movies", "Fox Showcase", etc.
+- Manage channels .
 - Each channel stores name, provider, language, and region
 
 ### 🕐 Program Scheduler
@@ -50,12 +49,57 @@ All entities use `Guid` IDs and can be easily extended.
 - Minimal API or Controller-based architecture
 ---
 
-## 🚀 How to Run
 
-1. Clone the repo
-2. Build the project
-3. Run the API (`dotnet run`)
-4. Use Swagger or Postman to test endpoints like:
-   - `GET /api/content`
-   - `GET /api/schedule/now`
-   - `POST /api/channels`
+## 🚧 Functional Requirements
+
+### 1. Channels API
+- [ ] `GET /api/channels` — List all channels
+- [ ] `POST /api/channels` — Add a new channel
+- [ ] `PUT /api/channels/{id}` — Update channel details
+- [ ] `DELETE /api/channels/{id}` — Delete a channel
+
+### 2. Content API (Movies / Shows)
+- [ ] `GET /api/content` — List all content
+- [ ] `GET /api/content/{id}` — View details of a movie or show
+- [ ] `POST /api/content` — Add new content
+- [ ] `PUT /api/content/{id}` — Update content
+- [ ] `DELETE /api/content/{id}` — Delete content
+
+### 3. Schedule API
+- [ ] `GET /api/schedule` — View all scheduled airings
+- [ ] `GET /api/schedule/channel/{channelId}` — View schedule for a specific channel
+- [ ] `GET /api/schedule/now` — See what’s currently airing
+- [ ] `POST /api/schedule` — Add a scheduled airing
+- [ ] `PUT /api/schedule/{channelId}/{contentId}` — Update a scheduled time slot
+- [ ] `DELETE /api/schedule/{channelId}/{contentId}` — Remove a scheduled airing
+
+---
+
+## ✅ Technical Requirements
+
+- Use .NET 8 Web API (or .NET 6+ is acceptable)
+- All data must be persisted to local JSON files (no database)
+- Use clean separation: Controllers → Services → Repositories
+- Use `Guid` IDs for all entities
+- Keep the solution lightweight and readable
+
+---
+
+## ✍️ Summary
+
+This test showcases your ability to:
+- Model and manage entities using file-based storage
+- Design and implement RESTful APIs
+- Work with async file operations
+- Structure clean, modular code
+
+---
+
+## 📌 Notes
+
+- No frontend is required — focus on backend only.
+- No database — data must live in flat JSON files stored in the project directory.
+
+---
+
+
