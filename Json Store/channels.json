@@ -1,0 +1,702 @@
+[
+    {
+        "channelId": "d46cddf5-6ead-45aa-a251-f1d348350744",
+        "name": "Channel 1",
+        "category": "TV Shows",
+        "language": "Malayalam",
+        "region": "India"
+    },
+    {
+        "channelId": "0cac2451-5f0e-41fc-98c1-75b4e1c7da14",
+        "name": "Channel 2",
+        "category": "TV Shows",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "4c2a5bcd-a810-4b47-8409-e5c28c8f3dac",
+        "name": "Channel 3",
+        "category": "TV Shows",
+        "language": "Tamil",
+        "region": "USA"
+    },
+    {
+        "channelId": "6822320c-86f5-4510-ba63-314ed0397bbe",
+        "name": "Channel 4",
+        "category": "News",
+        "language": "English",
+        "region": "India"
+    },
+    {
+        "channelId": "a2091983-349c-46e5-8f5b-15eb1b87279a",
+        "name": "Channel 5",
+        "category": "Movies",
+        "language": "Malayalam",
+        "region": "Australia"
+    },
+    {
+        "channelId": "ed035d9c-fff0-4a4a-ac22-d4e855cb3f85",
+        "name": "Channel 6",
+        "category": "Sports",
+        "language": "English",
+        "region": "India"
+    },
+    {
+        "channelId": "0b689895-5dc8-44e0-bc5e-b736d68657fe",
+        "name": "Channel 7",
+        "category": "TV Shows",
+        "language": "Tamil",
+        "region": "Australia"
+    },
+    {
+        "channelId": "87965026-34f0-4bd6-afbc-490215e959a8",
+        "name": "Channel 8",
+        "category": "TV Shows",
+        "language": "Malayalam",
+        "region": "USA"
+    },
+    {
+        "channelId": "08f70bd5-21af-4807-8407-72bfea19882e",
+        "name": "Channel 9",
+        "category": "Lifestyle",
+        "language": "Hindi",
+        "region": "USA"
+    },
+    {
+        "channelId": "4f3258b5-82c5-4633-84b6-9b5fccb35a3a",
+        "name": "Channel 10",
+        "category": "News",
+        "language": "English",
+        "region": "USA"
+    },
+    {
+        "channelId": "9de1c05e-e806-4400-98d9-7111f4ea6321",
+        "name": "Channel 11",
+        "category": "Movies",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "b454457a-f785-481c-8a8a-12366b268a6f",
+        "name": "Channel 12",
+        "category": "Lifestyle",
+        "language": "Hindi",
+        "region": "Australia"
+    },
+    {
+        "channelId": "7867afce-a853-41d5-999b-51786b9d753f",
+        "name": "Channel 13",
+        "category": "Movies",
+        "language": "Tamil",
+        "region": "USA"
+    },
+    {
+        "channelId": "0d036a1f-d207-4f80-9e19-e67ea690dfb7",
+        "name": "Channel 14",
+        "category": "News",
+        "language": "Hindi",
+        "region": "USA"
+    },
+    {
+        "channelId": "6bf4767e-ed43-499e-8ba2-babeb1d164d6",
+        "name": "Channel 15",
+        "category": "Movies",
+        "language": "English",
+        "region": "Australia"
+    },
+    {
+        "channelId": "2522904d-e031-47a8-9d4b-adb8316ec732",
+        "name": "Channel 16",
+        "category": "TV Shows",
+        "language": "Malayalam",
+        "region": "USA"
+    },
+    {
+        "channelId": "6aab7c5a-6cb3-4a15-9cb5-844c2fdb0039",
+        "name": "Channel 17",
+        "category": "News",
+        "language": "English",
+        "region": "USA"
+    },
+    {
+        "channelId": "7fe37159-3986-4ae1-bccb-d6453be691e1",
+        "name": "Channel 18",
+        "category": "News",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "c91cd1d0-e97d-44e3-ac27-60aac212a51b",
+        "name": "Channel 19",
+        "category": "TV Shows",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "f67a3943-b962-43cc-bba6-6959dd1a2411",
+        "name": "Channel 20",
+        "category": "Lifestyle",
+        "language": "Hindi",
+        "region": "Australia"
+    },
+    {
+        "channelId": "dcda485a-d630-4d40-bb65-8a05f51b6948",
+        "name": "Channel 21",
+        "category": "TV Shows",
+        "language": "English",
+        "region": "Australia"
+    },
+    {
+        "channelId": "8c41ed74-b89e-4698-b114-8b6b7fd17073",
+        "name": "Channel 22",
+        "category": "TV Shows",
+        "language": "Malayalam",
+        "region": "Australia"
+    },
+    {
+        "channelId": "a6f26d82-b090-4fa5-bbdc-3a3779679a2a",
+        "name": "Channel 23",
+        "category": "Lifestyle",
+        "language": "Malayalam",
+        "region": "USA"
+    },
+    {
+        "channelId": "9b6f62c2-263c-4520-b7b2-b4bb6790ebb9",
+        "name": "Channel 24",
+        "category": "News",
+        "language": "Malayalam",
+        "region": "USA"
+    },
+    {
+        "channelId": "0f49b750-e851-414b-9c28-fb202224e340",
+        "name": "Channel 25",
+        "category": "Sports",
+        "language": "Hindi",
+        "region": "Australia"
+    },
+    {
+        "channelId": "ca4eb171-1c34-4e45-9b90-bf6b885384ab",
+        "name": "Channel 26",
+        "category": "Sports",
+        "language": "Hindi",
+        "region": "Australia"
+    },
+    {
+        "channelId": "66cf326e-b2d3-4e74-a38e-89dea63459dd",
+        "name": "Channel 27",
+        "category": "News",
+        "language": "English",
+        "region": "India"
+    },
+    {
+        "channelId": "defccb54-682a-43f0-9172-7801f0bf5677",
+        "name": "Channel 28",
+        "category": "Sports",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "8c82292c-0365-4924-a24f-08080ed97449",
+        "name": "Channel 29",
+        "category": "TV Shows",
+        "language": "Malayalam",
+        "region": "India"
+    },
+    {
+        "channelId": "a6de4148-2162-4fe0-a026-0c535ad3c6a2",
+        "name": "Channel 30",
+        "category": "Movies",
+        "language": "Tamil",
+        "region": "Australia"
+    },
+    {
+        "channelId": "bf223654-3b4e-418a-a780-052ed7e11373",
+        "name": "Channel 31",
+        "category": "Movies",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "811ea859-fe20-48b6-8edd-7531d8dba107",
+        "name": "Channel 32",
+        "category": "Movies",
+        "language": "Malayalam",
+        "region": "Australia"
+    },
+    {
+        "channelId": "27bb17a5-8924-45c9-8841-5b9bb080454a",
+        "name": "Channel 33",
+        "category": "Sports",
+        "language": "Malayalam",
+        "region": "Australia"
+    },
+    {
+        "channelId": "dfe934f9-60fc-4cfb-80ac-ce75a89b1737",
+        "name": "Channel 34",
+        "category": "TV Shows",
+        "language": "English",
+        "region": "USA"
+    },
+    {
+        "channelId": "dd0b581a-3292-47b0-9ff5-13c1619d5a4d",
+        "name": "Channel 35",
+        "category": "Lifestyle",
+        "language": "Tamil",
+        "region": "USA"
+    },
+    {
+        "channelId": "51cb3631-d921-42c6-99d8-2711188715f7",
+        "name": "Channel 36",
+        "category": "TV Shows",
+        "language": "Malayalam",
+        "region": "USA"
+    },
+    {
+        "channelId": "965226ba-332c-4e54-bf01-5157d74d8537",
+        "name": "Channel 37",
+        "category": "Lifestyle",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "dea91d4a-1ec9-43ec-9b24-27ae3f77ffd5",
+        "name": "Channel 38",
+        "category": "Sports",
+        "language": "English",
+        "region": "Australia"
+    },
+    {
+        "channelId": "692ded6f-25a4-4d3e-9c73-9d79d453ce0d",
+        "name": "Channel 39",
+        "category": "Lifestyle",
+        "language": "Hindi",
+        "region": "USA"
+    },
+    {
+        "channelId": "78cbdf33-dbcb-4184-b2f0-3db46ca6e604",
+        "name": "Channel 40",
+        "category": "Movies",
+        "language": "Hindi",
+        "region": "Australia"
+    },
+    {
+        "channelId": "5b8b0c7f-6ef7-48b8-b1fa-fb7ca6ff3a32",
+        "name": "Channel 41",
+        "category": "Sports",
+        "language": "Tamil",
+        "region": "USA"
+    },
+    {
+        "channelId": "a6feb881-585f-448e-bd28-bb9d02c957c2",
+        "name": "Channel 42",
+        "category": "News",
+        "language": "Hindi",
+        "region": "USA"
+    },
+    {
+        "channelId": "9ea806d1-d3d9-4ce2-bc73-adbada5dc5c8",
+        "name": "Channel 43",
+        "category": "Movies",
+        "language": "Hindi",
+        "region": "Australia"
+    },
+    {
+        "channelId": "beb5b135-17c8-443c-abeb-0f03e204012e",
+        "name": "Channel 44",
+        "category": "Lifestyle",
+        "language": "Tamil",
+        "region": "Australia"
+    },
+    {
+        "channelId": "627c3c62-e0ff-4063-a4d6-4ab03c8bf4e0",
+        "name": "Channel 45",
+        "category": "Movies",
+        "language": "English",
+        "region": "Australia"
+    },
+    {
+        "channelId": "cc6a3140-4cba-4c78-91e4-b0808860d7dd",
+        "name": "Channel 46",
+        "category": "TV Shows",
+        "language": "English",
+        "region": "USA"
+    },
+    {
+        "channelId": "17fb514f-2cf1-401d-990e-e778a5924aad",
+        "name": "Channel 47",
+        "category": "Movies",
+        "language": "Hindi",
+        "region": "USA"
+    },
+    {
+        "channelId": "3ba9e40a-4af6-47de-b0a3-15976a18c610",
+        "name": "Channel 48",
+        "category": "Sports",
+        "language": "Hindi",
+        "region": "Australia"
+    },
+    {
+        "channelId": "a5a2dd48-e8ce-4469-8110-28427fcf7fa1",
+        "name": "Channel 49",
+        "category": "Sports",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "9310fad6-c14a-4aa4-acf7-22c20c9339de",
+        "name": "Channel 50",
+        "category": "Sports",
+        "language": "Hindi",
+        "region": "India"
+    },
+    {
+        "channelId": "7cbfc0e4-1692-4e97-99ed-6e59eb431dda",
+        "name": "Channel 51",
+        "category": "Lifestyle",
+        "language": "Tamil",
+        "region": "Australia"
+    },
+    {
+        "channelId": "ca9c9785-ad8f-4801-9c9e-cf639a2f4851",
+        "name": "Channel 52",
+        "category": "Movies",
+        "language": "English",
+        "region": "India"
+    },
+    {
+        "channelId": "28db2593-1964-4bb7-bce0-41bfa599aa19",
+        "name": "Channel 53",
+        "category": "Movies",
+        "language": "Malayalam",
+        "region": "USA"
+    },
+    {
+        "channelId": "59a3b88d-3bf4-42d1-ba73-749b09802da0",
+        "name": "Channel 54",
+        "category": "Movies",
+        "language": "English",
+        "region": "Australia"
+    },
+    {
+        "channelId": "c63ccfe8-16f7-4edc-8b67-8972442987cd",
+        "name": "Channel 55",
+        "category": "News",
+        "language": "English",
+        "region": "India"
+    },
+    {
+        "channelId": "861bdfe0-85ac-487e-a848-76cca351cec5",
+        "name": "Channel 56",
+        "category": "TV Shows",
+        "language": "English",
+        "region": "India"
+    },
+    {
+        "channelId": "be00470a-eaba-4900-b7d2-7a9c0a5bcf37",
+        "name": "Channel 57",
+        "category": "Sports",
+        "language": "Malayalam",
+        "region": "India"
+    },
+    {
+        "channelId": "b1662dec-0730-48a5-bddd-309b2835da3a",
+        "name": "Channel 58",
+        "category": "Sports",
+        "language": "Tamil",
+        "region": "Australia"
+    },
+    {
+        "channelId": "7c731bff-8784-4fd6-a9ff-3f875a456296",
+        "name": "Channel 59",
+        "category": "Lifestyle",
+        "language": "Hindi",
+        "region": "USA"
+    },
+    {
+        "channelId": "e812b34b-448f-4bdb-8ed0-eab80c6c825a",
+        "name": "Channel 60",
+        "category": "TV Shows",
+        "language": "Malayalam",
+        "region": "Australia"
+    },
+    {
+        "channelId": "5a77abcb-06c6-4b41-b53e-8f65dc217b7b",
+        "name": "Channel 61",
+        "category": "News",
+        "language": "Hindi",
+        "region": "India"
+    },
+    {
+        "channelId": "26915f50-8c65-484e-ae9b-64d14e172320",
+        "name": "Channel 62",
+        "category": "Sports",
+        "language": "English",
+        "region": "India"
+    },
+    {
+        "channelId": "ee2018b2-0f26-484b-a260-e7bb1987ce64",
+        "name": "Channel 63",
+        "category": "TV Shows",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "7524b95e-f5dc-4da8-9df6-aaac864bf4c0",
+        "name": "Channel 64",
+        "category": "Movies",
+        "language": "Hindi",
+        "region": "Australia"
+    },
+    {
+        "channelId": "550b7cd6-6d6d-494c-9b96-3d5081d5b4bb",
+        "name": "Channel 65",
+        "category": "News",
+        "language": "Malayalam",
+        "region": "India"
+    },
+    {
+        "channelId": "eb0da682-791b-47b0-a463-6b5c1025d96c",
+        "name": "Channel 66",
+        "category": "Sports",
+        "language": "Hindi",
+        "region": "Australia"
+    },
+    {
+        "channelId": "61921120-1cf5-4671-a5c4-dbbe05c4dc6d",
+        "name": "Channel 67",
+        "category": "Lifestyle",
+        "language": "Malayalam",
+        "region": "Australia"
+    },
+    {
+        "channelId": "2d197446-7c8f-4707-bffb-5ad73b15fd41",
+        "name": "Channel 68",
+        "category": "Movies",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "d673aea8-cedb-4c0c-801d-df7ff0c6fd40",
+        "name": "Channel 69",
+        "category": "Lifestyle",
+        "language": "Tamil",
+        "region": "USA"
+    },
+    {
+        "channelId": "ee4cd5c3-696b-4036-a65d-28af9b45d583",
+        "name": "Channel 70",
+        "category": "News",
+        "language": "Malayalam",
+        "region": "USA"
+    },
+    {
+        "channelId": "8b750267-8450-4843-8f3a-d26209898c74",
+        "name": "Channel 71",
+        "category": "Movies",
+        "language": "Hindi",
+        "region": "India"
+    },
+    {
+        "channelId": "a9dc5f32-cdf0-4498-845f-fcf074d6895e",
+        "name": "Channel 72",
+        "category": "News",
+        "language": "Tamil",
+        "region": "Australia"
+    },
+    {
+        "channelId": "ba65ceae-7202-43f0-af3a-8bf15d47d557",
+        "name": "Channel 73",
+        "category": "TV Shows",
+        "language": "English",
+        "region": "Australia"
+    },
+    {
+        "channelId": "a7997852-f024-44ea-b236-18c2e57452a7",
+        "name": "Channel 74",
+        "category": "News",
+        "language": "Hindi",
+        "region": "India"
+    },
+    {
+        "channelId": "255ffb0b-96b1-4249-b6d1-de0a5d08b922",
+        "name": "Channel 75",
+        "category": "Movies",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "f454798d-b27e-4d9c-87ac-c3f86107843b",
+        "name": "Channel 76",
+        "category": "Sports",
+        "language": "Malayalam",
+        "region": "India"
+    },
+    {
+        "channelId": "4b2ba30e-a9c1-4b5c-ad1a-c2931267432d",
+        "name": "Channel 77",
+        "category": "TV Shows",
+        "language": "English",
+        "region": "USA"
+    },
+    {
+        "channelId": "71685a7c-8a38-4aa5-800d-25eba8c8621d",
+        "name": "Channel 78",
+        "category": "TV Shows",
+        "language": "Tamil",
+        "region": "Australia"
+    },
+    {
+        "channelId": "bf788451-4a3e-4c6d-b010-45e9b0fe84a3",
+        "name": "Channel 79",
+        "category": "Movies",
+        "language": "Tamil",
+        "region": "USA"
+    },
+    {
+        "channelId": "586e1626-45f4-4751-9590-7d5391239d0b",
+        "name": "Channel 80",
+        "category": "Lifestyle",
+        "language": "Tamil",
+        "region": "Australia"
+    },
+    {
+        "channelId": "4c5fae1d-a560-49f9-80b0-59aed1ec232f",
+        "name": "Channel 81",
+        "category": "Movies",
+        "language": "English",
+        "region": "USA"
+    },
+    {
+        "channelId": "c75a32f9-7084-4c29-9ae3-63fef298a078",
+        "name": "Channel 82",
+        "category": "Sports",
+        "language": "English",
+        "region": "USA"
+    },
+    {
+        "channelId": "73d24772-d406-4d81-af8c-e30f68d1ce0c",
+        "name": "Channel 83",
+        "category": "Sports",
+        "language": "English",
+        "region": "India"
+    },
+    {
+        "channelId": "d0122e56-b0a8-44cf-a942-55b791ee1ddf",
+        "name": "Channel 84",
+        "category": "Movies",
+        "language": "Malayalam",
+        "region": "India"
+    },
+    {
+        "channelId": "ab71e459-0b06-4f50-8155-446d7d5ce698",
+        "name": "Channel 85",
+        "category": "Lifestyle",
+        "language": "English",
+        "region": "USA"
+    },
+    {
+        "channelId": "2418ac19-acdb-498d-8ab6-01b0778897ac",
+        "name": "Channel 86",
+        "category": "TV Shows",
+        "language": "English",
+        "region": "USA"
+    },
+    {
+        "channelId": "2c32ab5e-7c60-4c28-8e82-9f98f619e8a9",
+        "name": "Channel 87",
+        "category": "Lifestyle",
+        "language": "Tamil",
+        "region": "India"
+    },
+    {
+        "channelId": "9ff76ac3-4393-4dd8-ab9f-3fb9f737b7fd",
+        "name": "Channel 88",
+        "category": "Lifestyle",
+        "language": "Tamil",
+        "region": "USA"
+    },
+    {
+        "channelId": "235ad22a-35f1-4940-9860-d4052693ced9",
+        "name": "Channel 89",
+        "category": "Movies",
+        "language": "English",
+        "region": "India"
+    },
+    {
+        "channelId": "e9a2da72-f217-4c4f-8b6e-239a6e04ef3d",
+        "name": "Channel 90",
+        "category": "Lifestyle",
+        "language": "English",
+        "region": "Australia"
+    },
+    {
+        "channelId": "b9fad121-aae4-4869-b708-5d084405d224",
+        "name": "Channel 91",
+        "category": "Sports",
+        "language": "Malayalam",
+        "region": "India"
+    },
+    {
+        "channelId": "40feea5d-ed6d-4ebf-a27c-d8b167ca3a94",
+        "name": "Channel 92",
+        "category": "Movies",
+        "language": "Malayalam",
+        "region": "USA"
+    },
+    {
+        "channelId": "06d39d07-bfa2-486c-a135-ab02351efeec",
+        "name": "Channel 93",
+        "category": "TV Shows",
+        "language": "Malayalam",
+        "region": "Australia"
+    },
+    {
+        "channelId": "f7ea27b7-49a8-4826-af09-677517a077fa",
+        "name": "Channel 94",
+        "category": "Movies",
+        "language": "Tamil",
+        "region": "Australia"
+    },
+    {
+        "channelId": "6fb69f4b-5625-485f-9780-e3266e712a1c",
+        "name": "Channel 95",
+        "category": "Sports",
+        "language": "Malayalam",
+        "region": "USA"
+    },
+    {
+        "channelId": "e2abac67-d9b2-464f-87a9-49d6acc1bddd",
+        "name": "Channel 96",
+        "category": "Sports",
+        "language": "English",
+        "region": "India"
+    },
+    {
+        "channelId": "131458d5-60a3-4955-a295-72596f85e53a",
+        "name": "Channel 97",
+        "category": "News",
+        "language": "Hindi",
+        "region": "USA"
+    },
+    {
+        "channelId": "fb7d8fa5-73f9-4261-b514-4fae40d0a278",
+        "name": "Channel 98",
+        "category": "TV Shows",
+        "language": "Hindi",
+        "region": "India"
+    },
+    {
+        "channelId": "2274a8cd-e10a-4f2d-9f7a-a2c242290c27",
+        "name": "Channel 99",
+        "category": "Sports",
+        "language": "Tamil",
+        "region": "Australia"
+    },
+    {
+        "channelId": "3a5009ba-fdbf-451a-aef7-f8f1dd6e3c6b",
+        "name": "Channel 100",
+        "category": "Sports",
+        "language": "Hindi",
+        "region": "USA"
+    }
+]
